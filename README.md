@@ -12,7 +12,7 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="code" width="25" height="25" /> About
+## About
 
 Building ML models and full-stack apps. Interested in computer vision, MLOps, and taking things from prototype to production. Currently working on some vision projects and deployment pipelines.
 
@@ -20,13 +20,13 @@ Building ML models and full-stack apps. Interested in computer vision, MLOps, an
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="projects" width="25" height="25" /> Projects
+## Projects
 
 Most of my work is in my pinned repos. Working on computer vision models, MLOps workflows, and web apps that integrate ML backends.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="stack" width="25" height="25" /> Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
