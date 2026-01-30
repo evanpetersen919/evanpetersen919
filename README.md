@@ -54,6 +54,6 @@ Most of my work is in my pinned repos. Working on computer vision models, MLOps 
 
 <div align="center">
 
-Currently developing VantageCV, a synthetic data generator for automobiles made with Unreal engine 5.
+Currently developing VantageCV, a synthetic data generator for automobiles made with Unreal Engine 5.
 
 </div>
