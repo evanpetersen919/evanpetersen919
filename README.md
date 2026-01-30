@@ -8,6 +8,7 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evanpetersen919.github.io/ML-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanpetersen919@gmail.com)
 
+</div>
 
 ---
 
