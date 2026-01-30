@@ -14,9 +14,7 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 
 ## About
 
-Building ML models and full-stack apps. Interested in computer vision, MLOps, and taking things from prototype to production. Currently working on some vision projects and deployment pipelines.
-
-**Currently learning:** Advanced deployment strategies, optimizing inference, scaling ML systems
+I mostly work on Computer Vision and Machine Learning.
 
 ---
 
@@ -56,6 +54,6 @@ Most of my work is in my pinned repos. Working on computer vision models, MLOps 
 
 <div align="center">
 
-Looking for internships and open to collaborating on projects. Hit me up if you want to talk ML, build something, or just chat about tech.
+Currently developing VantageCV, a synthetic data generator for automobiles made with Unreal engine 5.
 
 </div>
