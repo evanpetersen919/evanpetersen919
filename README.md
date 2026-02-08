@@ -24,7 +24,9 @@ I've built computer vision models and developed web apps that use ML backends. I
 <table>
 <tr>
 <td align="center" width="50%">
+<a href="https://github.com/evanpetersen919/VantageCV">
 <img src="images/VCV_logo.png" alt="VantageCV" width="450"/>
+</a>
 <h3><a href="https://github.com/evanpetersen919/VantageCV">VantageCV</a></h3>
 <p>Synthetic data generator for automobiles - <strong>In development</strong></p>
 <p>
@@ -34,7 +36,9 @@ I've built computer vision models and developed web apps that use ML backends. I
 </p>
 </td>
 <td align="center" width="50%">
+<a href="https://github.com/evanpetersen919/TripSaver">
 <img src="images/TS_logo.png" alt="TripSaver" width="450"/>
+</a>
 <h3><a href="https://github.com/evanpetersen919/TripSaver">TripSaver</a></h3>
 <p>Smart travel planning application</p>
 <p>
