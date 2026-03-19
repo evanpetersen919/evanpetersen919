@@ -6,6 +6,7 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-petersen-b93037386/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanpetersen919@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://evanpetersen919.github.io/AI-ML-Portfolio/)
 
 </div>
 
@@ -13,7 +14,9 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 
 ## About
 
-I've built computer vision models and developed web apps that use ML backends. I primarily work with C++ and Python.
+I am a third-year Computer Science student at CSU San Marcos with a minor in Data Science. As an AI Engineer Intern, I build computer vision pipelines and work with multimodal LLMs, handling the full ML lifecycle from data preprocessing to production inference.
+
+My work focuses on autonomous vehicles, synthetic data, and perception systems. I am currently developing VantageCV, an Unreal Engine 5 platform designed to generate scalable training data for AV models. This research ties into a collaborative project, the Synthetic Realism Study, where my team is investigating the level of simulation fidelity required for effective real-world object detection. To build on my experience with simulation and data generation, I plan to learn Isaac Sim to further explore robotics and reinforcement learning.
 
 ---
 
