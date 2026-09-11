@@ -2,7 +2,7 @@
 
 # Evan Petersen
 
-CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
+CS @ Cal State San Marcos • Data Science Minor • Expected May 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-petersen-b93037386/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanpetersen919@gmail.com)
@@ -14,9 +14,9 @@ CS @ Cal State San Marcos • Data Science Minor • Graduating May 2027
 
 ## About
 
-I am a third-year Computer Science student at CSU San Marcos with a minor in Data Science. As an AI Engineer Intern, I build computer vision pipelines and work with multimodal LLMs, handling the full ML lifecycle from data preprocessing to production inference.
+I am a Computer Science student at CSU San Marcos with a minor in Data Science, graduating May 2027. I've completed two AI/ML internships: most recently as a Data Scientist Intern at HealthSpanIQ, and before that as an AI Engineer Intern at Nutriverse, building CV and multimodal LLM pipelines and handling the full ML lifecycle from data validation to production inference.
 
-My work focuses on autonomous vehicles, synthetic data, and perception systems. I am currently developing VantageCV, an Unreal Engine 5 platform designed to generate scalable training data for AV models. This research ties into a collaborative project, the Synthetic Realism Study, where my team is investigating the level of simulation fidelity required for effective real-world object detection. To build on my experience with simulation and data generation, I plan to learn Isaac Sim to further explore robotics and reinforcement learning.
+My research focuses on autonomous vehicle perception and synthetic data. As an undergraduate researcher, I'm studying the simulation fidelity required for effective real-world object detection, part of a collaborative effort called the Synthetic Realism Study. I built VantageCV, an Unreal Engine 5 platform for generating scalable synthetic training data for AV models. To build on my experience with simulation and data generation, I plan to learn Isaac Sim to further explore robotics and reinforcement learning.
 
 ---
 
@@ -24,40 +24,30 @@ My work focuses on autonomous vehicles, synthetic data, and perception systems. 
 
 <div align="center">
 
+<a href="https://github.com/evanpetersen919/VantageCV">
 <table>
 <tr>
-<td align="center" width="50%">
-<a href="https://github.com/evanpetersen919/VantageCV">
-<img src="images/VCV_logo.png" alt="VantageCV" width="450"/>
+<td width="25%"><img src="images/frame_000000.png" alt="VantageCV frame" width="100%"/></td>
+<td width="25%"><img src="images/frame_017.png" alt="VantageCV frame" width="100%"/></td>
+<td width="25%"><img src="images/demo2.png" alt="VantageCV demo 2" width="100%"/></td>
+<td width="25%"><img src="images/demo3.png" alt="VantageCV demo 3" width="100%"/></td>
+</tr>
+</table>
 </a>
 <h3><a href="https://github.com/evanpetersen919/VantageCV">VantageCV</a></h3>
-<p>Synthetic data generator for automobiles - <strong>In development</strong></p>
+<p>A synthetic computer vision dataset generator for autonomous vehicle perception research, built in Unreal Engine 5 with a Python control pipeline for generating annotated training data</p>
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 </p>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/evanpetersen919/TripSaver">
-<img src="images/TS_logo.png" alt="TripSaver" width="450"/>
-</a>
-<h3><a href="https://github.com/evanpetersen919/TripSaver">TripSaver</a></h3>
-<p>Smart travel planning application</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-</td>
-</tr>
-</table>
 
 </div>
 
 
 ### Other Projects
 
+- **[TripSaver](https://github.com/evanpetersen919/TripSaver)** - Multi-tier scene understanding pipeline with CV + LLM fallback
 - **[Turbofan-Health-Prediction](https://github.com/evanpetersen919/Turbofan-Health-Prediction)** - Predictive maintenance for aircraft engines using NASA C-MAPSS dataset
 - **[NIH-Chest-Disease-Classifier](https://github.com/evanpetersen919/NIH-Chest-Disease-Classifier)** - Multi-label classification of chest diseases from X-ray images with ResNet50
 
