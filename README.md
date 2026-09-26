@@ -24,7 +24,7 @@ My research focuses on autonomous vehicle perception and synthetic data. As an u
 
 <div align="center">
 
-<a href="https://github.com/evanpetersen919/VantageCV">
+<a href="https://github.com/evanpetersen919/VantageCV-V2">
 <table>
 <tr>
 <td width="25%"><img src="images/VCV_1a.png" alt="VantageCV Remastered" width="100%"/></td>
@@ -40,7 +40,7 @@ My research focuses on autonomous vehicle perception and synthetic data. As an u
 </tr>
 </table>
 </a>
-<h3><a href="https://github.com/evanpetersen919/VantageCV">VantageCV Remastered</a></h3>
+<h3><a href="https://github.com/evanpetersen919/VantageCV-V2">VantageCV Remastered</a></h3>
 <p>A procedural, seed-based synthetic AV perception dataset generator. Builds orthogonal road networks with per-lane topology and turn connectivity, places typed buildings with modular facade geometry, and spawns heading-aware vehicles and pedestrians. Runs pinhole camera projection with optional lens distortion to produce 3D/2D bounding boxes, instance segmentation masks, and depth maps, all exported as schema-validated COCO JSON. Configurable via CLI and YAML, with distributed multi-core generation and checkpointed resumable runs.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
