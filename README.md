@@ -28,12 +28,8 @@ My research focuses on autonomous vehicle perception and synthetic data. As an u
 
 <p>
 <a href="https://github.com/evanpetersen919/VantageCV-V2">
-<img src="https://img.shields.io/badge/VantageCV-Remastered-1a9e8f?style=for-the-badge&logo=github&logoColor=white" alt="VantageCV Remastered" height="48"/>
+<img src="https://img.shields.io/badge/VantageCV_Remastered-Synthetic_AV_Dataset_Generator-2d333b?labelColor=1a9e8f&style=for-the-badge&logo=github&logoColor=white" alt="VantageCV Remastered — Synthetic AV dataset generator" height="48"/>
 </a>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Synthetic-AV_Dataset_Generator-2d333b?style=for-the-badge&logo=car&logoColor=white" alt="Synthetic AV dataset generator"/>
 </p>
 
 <p>
