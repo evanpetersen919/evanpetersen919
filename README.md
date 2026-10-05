@@ -25,19 +25,59 @@ My research focuses on autonomous vehicle perception and synthetic data. As an u
 <div align="center">
 
 <a href="https://github.com/evanpetersen919/VantageCV-V2">
-<img src="profile_banner_mix.jpg" alt="VantageCV Remastered" width="100%"/>
+  <img src="profile_banner_mix.jpg" alt="VantageCV Remastered: procedural AV scenes with ground-truth labels" width="100%"/>
 </a>
-<h3><a href="https://github.com/evanpetersen919/VantageCV-V2">VantageCV Remastered</a></h3>
-<p>A procedural, seed-based synthetic AV perception dataset generator. Builds orthogonal road networks with per-lane topology and turn connectivity, places typed buildings with modular facade geometry, and spawns heading-aware vehicles and pedestrians. Runs pinhole camera projection with optional lens distortion to produce 3D/2D bounding boxes, instance segmentation masks, and depth maps, all exported as schema-validated COCO JSON. Configurable via CLI and YAML, with distributed multi-core generation and checkpointed resumable runs.</p>
-<p>
+
+<br/>
+
+### [VantageCV Remastered](https://github.com/evanpetersen919/VantageCV-V2)
+
+<sub>Procedural, seed-based synthetic datasets for autonomous-vehicle perception</sub>
+
+<br/><br/>
+
+<a href="https://github.com/evanpetersen919/VantageCV-V2">
+  <img src="https://img.shields.io/badge/Repository-VantageCV--V2-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**Scenes**
+
+Orthogonal road grids, per-lane topology and turn rules, typed buildings with modular facades, heading-aware vehicles and pedestrians
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Annotations**
+
+Pinhole camera projection with optional lens distortion; 2D/3D bounding boxes, instance segmentation masks, and depth maps exported as schema-validated COCO JSON
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Pipeline**
+
+YAML-driven scenarios and CLI entry points, Ray-backed parallel generation, and checkpointed resumable dataset runs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" alt="Ray"/>
-</p>
 
 </div>
 
+---
 
 ### Other Projects
 
