@@ -2,11 +2,9 @@
 
 # Evan Petersen
 
-CS @ Cal State San Marcos • Data Science Minor • Expected May 2027
+CS @ Cal State San Marcos · Data Science Minor · Expected May 2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-petersen-b93037386/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanpetersen919@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://evanpetersen919.github.io/AI-ML-Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/evan-petersen-b93037386/) · [Email](mailto:evanpetersen919@gmail.com) · [Portfolio](https://evanpetersen919.github.io/AI-ML-Portfolio/)
 
 </div>
 
@@ -14,49 +12,29 @@ CS @ Cal State San Marcos • Data Science Minor • Expected May 2027
 
 ## About
 
-I am a Computer Science student at CSU San Marcos with a minor in Data Science, graduating May 2027. I've completed two AI/ML internships: most recently as a Data Scientist Intern at HealthSpanIQ, and before that as an AI Engineer Intern at Nutriverse, building CV and multimodal LLM pipelines and handling the full ML lifecycle from data validation to production inference.
+I'm a CS senior at Cal State San Marcos, minoring in Data Science, graduating May 2027.
 
-My research focuses on autonomous vehicle perception and synthetic data. As an undergraduate researcher, I'm studying the simulation fidelity required for effective real-world object detection, part of a collaborative effort called the Synthetic Realism Study. I built VantageCV Remastered, a procedural, seed-based synthetic AV perception dataset generator covering the full pipeline from road networks to COCO-format sensor annotations. To build on my experience with simulation and data generation, I plan to learn Isaac Sim to further explore robotics and reinforcement learning.
+I've interned as a Data Scientist at HealthSpanIQ and an AI Engineer at Nutriverse, where I built CV and multimodal LLM pipelines.
+
+My research is on synthetic data for autonomous driving. I train object detectors in simulation and test them on real driving datasets to see how much simulation detail is actually needed.
+
+Outside of research, I've spent the past year building VantageCV, an open-source UE5 engine that generates synthetic driving data with 11 annotation types including LiDAR, object detection, and segmentation.
 
 ---
 
 ## Current Work
 
-<table align="center">
-<tr>
-<td align="center" width="900">
+<div align="center">
 
-<h1><a href="https://github.com/evanpetersen919/VantageCV-V2">VantageCV Remastered</a></h1>
-<p><sub>Synthetic Autonomous Vehicle Dataset Generator</sub></p>
+[![Current work](profile_banner.jpg)](https://github.com/evanpetersen919/VantageCV-Remastered)
 
-<p>
-<a href="https://github.com/evanpetersen919/VantageCV-Remastered">
-<img src="profile_banner_mix.jpg" alt="VantageCV Remastered preview" width="100%"/>
-</a>
-</p>
-
-<p>
-Seed-based procedural driving scenes with 2D/3D boxes, segmentation, and depth exported to COCO.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"/>
-<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray"/>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### Other Projects
+## Other Projects
 
-- **[VantageCV](https://github.com/evanpetersen919/VantageCV)** - Synthetic CV dataset generator for AV perception research, built in Unreal Engine 5 with a Python control pipeline for generating annotated training data
-- **[TripSaver](https://github.com/evanpetersen919/TripSaver)** - Multi-tier scene understanding pipeline with CV + LLM fallback
-- **[Turbofan-Health-Prediction](https://github.com/evanpetersen919/Turbofan-Health-Prediction)** - Predictive maintenance for aircraft engines using NASA C-MAPSS dataset
+- **[VantageCV](https://github.com/evanpetersen919/VantageCV)** - Synthetic CV dataset generator for AV perception research, built in Unreal Engine 5 with a Python control pipeline for annotated training data
+- **[TripSaver](https://github.com/evanpetersen919/TripSaver)** - Multi-tier scene understanding pipeline with CV and LLM fallback
+- **[Turbofan-Health-Prediction](https://github.com/evanpetersen919/Turbofan-Health-Prediction)** - Predictive maintenance for aircraft engines using the NASA C-MAPSS dataset
 - **[NIH-Chest-Disease-Classifier](https://github.com/evanpetersen919/NIH-Chest-Disease-Classifier)** - Multi-label classification of chest diseases from X-ray images with ResNet50
-
-
