@@ -14,7 +14,7 @@ CS @ Cal State San Marcos · Data Science Minor · Expected May 2027
 
 I'm a CS senior at Cal State San Marcos, minoring in Data Science, graduating May 2027.
 
-I've interned as a Data Scientist at HealthSpanIQ and an AI Engineer at Nutriverse, where I built CV and multimodal LLM pipelines.
+I've interned as a Data Scientist at HealthSpanIQ and an AI Engineer at Nutriverse. At Nutriverse I built CV and multimodal LLM pipelines; at HealthSpanIQ I built automated data validation tooling.
 
 My research is on synthetic data for autonomous driving. I train object detectors in simulation and test them on real driving datasets to see how much simulation detail is actually needed.
 
